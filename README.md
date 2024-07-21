@@ -2,11 +2,6 @@
 
 # 👋 Hi, I'm Roman Dzhus
 
-<img height=200 align="center" alt="Personal stats"
-    src="https://github-readme-stats.vercel.app/api?username=dzhusjr&show_icons=true&theme=dark" />
-<img height=200 align="center" alt="Language stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhusjr&show_icons=true&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5" />
-
 ## 🛠️ Core Skills
 
 - 💻 Software Development
